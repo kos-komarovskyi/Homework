@@ -1,16 +1,18 @@
-#include <iostream>;
-#include <cmath>;
+#include <iostream>
 
 using namespace std;
 
-int main()
+void sayHi(string name, int age) {
+	cout << "Hello " << name << " you are " << age << endl;
+}
 
+int main ()
 {
-    int luckyNums[20] = {4, 8, 15, 16, 23,42};
+	
+	sayHi("Mike", 60);
+	sayHi("Tom", 45);
+	sayHi("Steve", 19);
+	
 
-    luckyNums [10] = 100;
-    
-    cout << luckyNums [10];
-    
-    return 0;
+		return  0;
 }
