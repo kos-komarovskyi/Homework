@@ -1,0 +1,2 @@
+D:\OneDrive\CPP\Homework\230826_HomeWork\x64\Debug\230826_HomeWork.exe
+D:\OneDrive\CPP\Homework\230826_Fehrenheit to Celsius\x64\Debug\230826_HomeWork.exe
