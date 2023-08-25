@@ -1,16 +1,12 @@
 #include <iostream>
+#include <cmath>
 
 using namespace std;
 
 int main()
 
 {
-	cout << "Enter a temperature in Fahrenheit: ";
-	double TempInFahrenheit;
-	cin >> TempInFahrenheit;
-
-	double TempInCelsius = (TempInFahrenheit - 32) * 5 / 9;
-	cout << TempInCelsius;
-
+	double result = floor(1.2);
+	c
 	return 0;
 }
