@@ -6,7 +6,13 @@ using namespace std;
 int main()
 
 {
-	double result = floor(1.2);
-	c
+	cout << "Enter a Radius of a Circle: "; // we enter  a radius of a circle here
+	double Radius; 
+	cin >> Radius;
+	const double pi = 3.14;
+	double Area;
+	Area = pi * pow (Radius, 2);
+	cout << "Your Circle Area equals to " << Area;
+
 	return 0;
 }
