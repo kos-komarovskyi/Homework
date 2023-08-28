@@ -1,12 +1,15 @@
 #include <iostream>
 #include <cmath>
+#include <cstdlib>
+#include <ctime>
 
 using namespace std;
 
 int main()
 {
-	int number = 1000000;
-	short another = number;
-	cout << another;
+	time(nullptr); 
+	srand(66);
+	int number = rand ();
+	cout << number;
 	return 0;
 } 
