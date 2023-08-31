@@ -1,2 +1,4 @@
-﻿  230828_homework.cpp
-  230828_homework.vcxproj -> D:\OneDrive\CPP\Homework\230828_homework\x64\Debug\230828_homework.exe
+﻿  formatting_output.cpp
+D:\OneDrive\CPP\Homework\230828_homework\formatting_output.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+formatting_output.obj : error LNK2005: main already defined in 230828_rolling dice 1 to 6.obj
+D:\OneDrive\CPP\Homework\230828_homework\x64\Debug\230828_homework.exe : fatal error LNK1169: one or more multiply defined symbols found

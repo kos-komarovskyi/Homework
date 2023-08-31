@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="230828_homework.cpp">
+    <ClCompile Include="230828_rolling dice 1 to 6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="formatting_output.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
