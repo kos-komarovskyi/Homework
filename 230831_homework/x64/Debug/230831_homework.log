@@ -1,0 +1,4 @@
+﻿  230831_homework.cpp
+D:\OneDrive\CPP\Homework\230831_homework\230831_homework.cpp(9,10): error C2065: 'Course': undeclared identifier
+D:\OneDrive\CPP\Homework\230831_homework\230831_homework.cpp(9,20): error C2065: 'Students': undeclared identifier
+D:\OneDrive\CPP\Homework\230831_homework\230831_homework.cpp(10,10): error C2065: 'C': undeclared identifier
